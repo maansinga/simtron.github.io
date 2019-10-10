@@ -4,4 +4,5 @@ Hi, I'm Simha. I'm a systems programming enthusiast. I love to play with rust-la
 
 Thank you :)
 
-[Achievement: Rustlings - 8th October](./achievement.rustlings.md)
+[Achievement: Rustlings - 8th October 2019](./achievement.rustlings.md)
+[Simple Echo ClientServer application - 10th October 2019](./project.echo_clientserver.md)
